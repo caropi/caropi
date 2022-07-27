@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **caropi/caropi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![giphy (12)](https://user-images.githubusercontent.com/37511886/181253901-cbbd0641-934e-4194-8daa-9d19127563cb.gif)
